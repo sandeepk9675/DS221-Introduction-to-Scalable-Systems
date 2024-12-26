@@ -1,0 +1,301 @@
+product_id,hashtags
+1,shoes,games,tripods,parts,instruments,equipment,hunting,adventure,sheet music,books
+2,lenses,home,chairs,shoes,DVDs,bags,comics,streaming,diapers,gear
+3,outdoor,games,seeds,toys,kitchen,posters,strollers,board games,furniture,batteries
+4,dice,batteries,pets,chairs,vitamins,batteries,accessories,lenses,lenses,accessories
+5,instruments,games,shoes,automotive,equipment,shoes,car seats,travel,shoes,video games
+6,accessories,lighting,boating,gear,posters,clothing,guides,accessories,board games,accessories
+7,sheet music,nutrition,gear,board games,laptops,clothing,equipment,lenses,lenses,tires
+8,health,bakeware,movies,food,planters,movies,medications,bakeware,seeds,utensils
+9,tools,planters,supplies,nails,tripods,guides,planters,puzzles,lenses,furniture
+10,fitness,decor,accessories,electronics,food,clothing,fitness,posters,skincare,accessories
+11,bedding,equipment,stationery,boating,kitchen,makeup,parts,furniture,accessories,travel
+12,tools,cameras,posters,gear,health,tools,games,first aid,medications,sheet music
+13,backpacks,cookware,shoes,movies,toys,parts,health,baby,food,diapers
+14,tools,instruments,office,fitness,instruments,utensils,bedding,accessories,streaming,sports
+15,card games,hiking,comics,books,shoes,office,supplies,fishing,jewelry,magazines
+16,equipment,makeup,gear,photography,accessories,travel,toys,equipment,clothing,gear
+17,appliances,apparel,lighting,backpacks,accessories,first aid,apparel,apparel,nails,curtains
+18,board games,adventure,textbooks,curtains,nutrition,music,instruments,stands,instruments,phones
+19,shoes,baby,appliances,appliances,medications,strollers,accessories,planters,gadgets,dice
+20,diapers,photography,backpacks,travel,gear,guides,gear,equipment,supplies,luggage
+21,posters,accessories,decor,lenses,posters,tripods,textbooks,outdoor,music,clothing
+22,Blu-ray,beauty,electronics,tires,apparel,garden,lenses,lighting,fragrance,batteries
+23,books,nails,planters,video games,gear,travel,accessories,gadgets,apparel,furniture
+24,medications,gadgets,accessories,tools,nutrition,beauty,comics,supplements,card games,kitchen
+25,sports,puzzles,video games,equipment,accessories,planters,equipment,appliances,travel,hiking
+26,clothing,magazines,baby,games,fragrance,skincare,equipment,tools,diapers,dice
+27,accessories,electronics,baby,equipment,decor,adventure,toys,shoes,tools,fitness
+28,gear,games,cameras,instruments,skincare,dice,kitchen,fiction,batteries,tools
+29,nutrition,gear,accessories,accessories,gear,boating,equipment,chairs,fertilizers,automotive
+30,cooking,maintenance,fertilizers,cookware,non-fiction,health,comics,clothing,movies,textbooks
+31,video games,sheet music,lighting,card games,supplements,haircare,makeup,pets,chairs,novels
+32,books,health,card games,boating,boating,sheet music,audio,accessories,shoes,fertilizers
+33,DVDs,hiking,clothing,clothing,luggage,equipment,supplies,posters,electronics,accessories
+34,instruments,stationery,camping,luggage,equipment,medications,accessories,shoes,makeup,bags
+35,skincare,equipment,car seats,bedding,card games,tablets,equipment,video games,textbooks,medications
+36,planters,parts,vitamins,movies,maps,hiking,instruments,textbooks,gadgets,fitness
+37,fitness,baby,toys,bedding,camping,food,vitamins,accessories,sheet music,cutlery
+38,clothing,gear,accessories,food,tools,games,video games,apparel,equipment,sheet music
+39,movies,automotive,cameras,equipment,planters,tablets,lenses,shoes,pets,accessories
+40,lenses,tires,supplies,books,decor,skincare,clothing,jewelry,car seats,seeds
+41,grooming,accessories,dice,accessories,beauty,accessories,literature,healthcare,shoes,gear
+42,recording,tools,gear,lenses,Blu-ray,literature,accessories,car seats,dice,lighting
+43,equipment,health,automotive,fragrance,chairs,gear,accessories,grooming,adventure,books
+44,magazines,video games,medications,utensils,tires,decor,puzzles,card games,furniture,tools
+45,clothing,tires,baby,gear,nails,pets,food,sports,streaming,literature
+46,accessories,gear,equipment,bakeware,automotive,non-fiction,accessories,photography,cameras,food
+47,automotive,tools,video games,lenses,fiction,beauty,vitamins,utensils,DVDs,healthcare
+48,stands,seeds,strollers,furniture,supplements,boating,strollers,maintenance,adventure,skincare
+49,grooming,clothing,tires,baby,adventure,curtains,puzzles,fishing,tripods,guides
+50,medications,laptops,batteries,nutrition,batteries,clothing,hunting,planters,gear,tools
+51,guides,jewelry,dice,vitamins,accessories,accessories,music,novels,accessories,garden
+52,guides,memorabilia,batteries,non-fiction,card games,equipment,car seats,dice,utensils,lighting
+53,skincare,sports,accessories,supplements,curtains,sports,furniture,parts,plants,luggage
+54,automotive,instruments,automotive,equipment,batteries,supplies,seeds,gadgets,fragrance,outdoor
+55,appliances,gear,furniture,fishing,accessories,streaming,backpacks,accessories,appliances,audio
+56,furniture,fragrance,camping,gear,haircare,baking,equipment,planters,furniture,Blu-ray
+57,bags,beauty,backpacks,DVDs,phones,bakeware,baby,diapers,games,fitness
+58,memorabilia,board games,supplements,gear,phones,equipment,tools,camping,stationery,shoes
+59,travel,accessories,food,first aid,apparel,strollers,phones,books,posters,bedding
+60,gear,comics,music,clothing,garden,garden,appliances,textbooks,strollers,accessories
+61,baking,posters,sheet music,photography,tools,lenses,board games,shoes,toys,nails
+62,toys,cleaning,electronics,makeup,accessories,supplies,health,appliances,guides,office
+63,lenses,bags,accessories,maps,posters,lighting,electronics,accessories,kitchen,dice
+64,guides,lenses,backpacks,board games,toys,cameras,automotive,apparel,accessories,furniture
+65,pets,equipment,audio,fragrance,dice,posters,furniture,rugs,clothing,movies
+66,toys,hiking,tripods,tripods,plants,fishing,instruments,clothing,electronics,pets
+67,tools,shoes,nutrition,clothing,shoes,supplements,bakeware,diapers,lenses,tripods
+68,batteries,audio,accessories,fiction,cooking,fiction,shoes,posters,books,gadgets
+69,bakeware,strollers,electronics,tires,baby,curtains,audio,automotive,apparel,apparel
+70,lighting,games,nails,sheet music,furniture,health,office,tools,accessories,gear
+71,outdoor,planters,photography,toys,phones,DVDs,novels,pets,fishing,memorabilia
+72,textbooks,video games,medications,tires,guides,accessories,bags,office,tires,lenses
+73,cameras,medications,comics,textbooks,tablets,outdoor,magazines,parts,lighting,audio
+74,magazines,literature,toys,gadgets,furniture,comics,dice,grooming,books,accessories
+75,boating,tools,accessories,stationery,lenses,streaming,makeup,textbooks,boating,board games
+76,pets,luggage,baby,DVDs,equipment,accessories,movies,fiction,electronics,posters
+77,instruments,novels,fishing,gear,nails,beauty,accessories,guides,haircare,books
+78,planters,accessories,magazines,tools,Blu-ray,fitness,supplements,lighting,guides,strollers
+79,automotive,garden,novels,magazines,equipment,automotive,gadgets,sheet music,fragrance,hunting
+80,bags,diapers,travel,gear,haircare,Blu-ray,parts,puzzles,clothing,maintenance
+81,nail care,lighting,lenses,posters,tools,electronics,supplements,equipment,appliances,puzzles
+82,memorabilia,utensils,non-fiction,travel,posters,accessories,tripods,accessories,books,automotive
+83,baking,clothing,board games,furniture,chairs,outdoor,board games,puzzles,gear,seeds
+84,batteries,laptops,comics,skincare,strollers,travel,jewelry,grooming,accessories,fiction
+85,fashion,lighting,tripods,puzzles,fitness,furniture,furniture,DVDs,plants,posters
+86,luggage,accessories,appliances,outdoor,outdoor,healthcare,outdoor,comics,electronics,accessories
+87,supplements,cameras,tablets,laptops,tools,furniture,grooming,DVDs,gadgets,streaming
+88,bedding,makeup,streaming,hunting,fitness,fashion,maps,utensils,makeup,equipment
+89,bedding,audio,tablets,Blu-ray,furniture,pets,clothing,toys,lenses,skincare
+90,fitness,grooming,apparel,sports,healthcare,home,furniture,books,grooming,non-fiction
+91,apparel,comics,outdoor,vitamins,recording,diapers,skincare,comics,tools,outdoor
+92,tools,gear,food,adventure,camping,bags,healthcare,textbooks,hiking,toys
+93,appliances,first aid,fitness,home,decor,tires,decor,gadgets,novels,instruments
+94,dice,accessories,apparel,toys,cooking,tripods,vitamins,clothing,accessories,supplies
+95,supplements,cameras,garden,jewelry,supplements,travel,first aid,clothing,audio,accessories
+96,lighting,office,planters,Blu-ray,accessories,equipment,puzzles,haircare,instruments,tires
+97,streaming,food,music,phones,beauty,gear,fragrance,maps,nails,laptops
+98,phones,accessories,healthcare,first aid,accessories,beauty,plants,planters,health,board games
+99,shoes,food,lenses,accessories,guides,accessories,DVDs,backpacks,outdoor,bags
+100,sports,gear,outdoor,posters,accessories,health,lenses,outdoor,accessories,gear
+101,gadgets,grooming,office,Blu-ray,clothing,camping,bags,phones,equipment,tires
+102,shoes,video games,clothing,accessories,skincare,toys,games,first aid,sports,seeds
+103,furniture,fiction,posters,lenses,maps,appliances,supplies,board games,photography,home
+104,luggage,movies,apparel,gear,shoes,gear,travel,lighting,non-fiction,Blu-ray
+105,apparel,medications,bakeware,clothing,fashion,automotive,maps,fiction,laptops,parts
+106,card games,card games,hunting,fertilizers,garden,lenses,maps,music,makeup,decor
+107,video games,parts,phones,accessories,hiking,puzzles,fragrance,furniture,shoes,gear
+108,cutlery,stationery,automotive,plants,fishing,utensils,magazines,garden,gear,movies
+109,accessories,tires,movies,hiking,parts,movies,decor,board games,supplements,first aid
+110,photography,haircare,DVDs,fashion,clothing,nutrition,music,books,beauty,shoes
+111,first aid,cutlery,supplements,clothing,decor,lighting,instruments,lighting,vitamins,bags
+112,literature,furniture,accessories,tools,baby,vitamins,furniture,equipment,automotive,apparel
+113,adventure,literature,maps,accessories,accessories,fishing,cookware,video games,skincare,planters
+114,lenses,health,stands,bags,apparel,planters,DVDs,utensils,car seats,accessories
+115,non-fiction,vitamins,dice,beauty,utensils,puzzles,shoes,fertilizers,clothing,toys
+116,tires,movies,strollers,comics,equipment,outdoor,non-fiction,novels,audio,automotive
+117,parts,games,phones,audio,tools,card games,health,tools,lighting,grooming
+118,dice,accessories,office,hunting,accessories,novels,utensils,accessories,appliances,beauty
+119,music,fertilizers,parts,furniture,beauty,tablets,toys,toys,supplies,lighting
+120,gadgets,lighting,decor,adventure,outdoor,laptops,gear,toys,textbooks,luggage
+121,supplies,supplies,skincare,parts,non-fiction,lighting,strollers,board games,lenses,card games
+122,furniture,tablets,baby,video games,shoes,outdoor,books,equipment,board games,baby
+123,fashion,equipment,maps,equipment,furniture,accessories,gear,pets,accessories,first aid
+124,board games,tools,posters,furniture,baby,bags,fragrance,guides,fashion,camping
+125,fragrance,DVDs,kitchen,gear,skincare,electronics,beauty,guides,first aid,boating
+126,fashion,furniture,puzzles,hunting,clothing,health,bedding,curtains,camping,toys
+127,sports,camping,gear,strollers,posters,audio,grooming,electronics,cameras,hunting
+128,equipment,curtains,equipment,nutrition,accessories,grooming,supplements,hunting,accessories,grooming
+129,lighting,accessories,plants,health,electronics,vitamins,accessories,books,fitness,seeds
+130,tools,grooming,supplements,Blu-ray,accessories,gear,supplements,accessories,bakeware,stationery
+131,puzzles,tripods,tools,accessories,camping,bedding,makeup,baking,phones,strollers
+132,tires,instruments,tools,memorabilia,pets,diapers,accessories,makeup,plants,car seats
+133,utensils,textbooks,apparel,garden,accessories,food,nutrition,music,clothing,equipment
+134,shoes,beauty,cameras,outdoor,seeds,novels,phones,strollers,automotive,phones
+135,sheet music,adventure,lighting,accessories,lenses,lighting,accessories,shoes,pets,instruments
+136,furniture,accessories,bags,automotive,textbooks,gear,books,home,phones,fashion
+137,adventure,tools,textbooks,boating,phones,guides,haircare,posters,stationery,vitamins
+138,cameras,board games,equipment,tablets,accessories,decor,fertilizers,toys,food,medications
+139,cameras,dice,bakeware,lenses,tools,skincare,cleaning,accessories,puzzles,sports
+140,card games,beauty,pets,literature,equipment,diapers,strollers,baby,card games,Blu-ray
+141,boating,board games,utensils,music,accessories,lenses,posters,shoes,healthcare,accessories
+142,lighting,bedding,tools,utensils,tools,cameras,equipment,card games,batteries,books
+143,batteries,accessories,jewelry,bakeware,equipment,books,backpacks,equipment,fragrance,camping
+144,bags,accessories,tripods,nutrition,gear,lighting,board games,jewelry,seeds,fishing
+145,health,furniture,textbooks,comics,Blu-ray,chairs,fashion,fashion,tires,electronics
+146,hiking,boating,comics,bedding,accessories,cookware,seeds,vitamins,supplements,streaming
+147,phones,Blu-ray,equipment,tablets,shoes,gear,music,toys,fishing,vitamins
+148,pets,streaming,travel,fishing,hunting,adventure,fragrance,accessories,health,tablets
+149,furniture,non-fiction,luggage,haircare,shoes,parts,home,card games,strollers,fashion
+150,lighting,healthcare,first aid,literature,fragrance,textbooks,instruments,instruments,board games,electronics
+151,boating,bags,dice,seeds,planters,furniture,comics,equipment,hunting,hiking
+152,fertilizers,shoes,apparel,accessories,gear,grooming,shoes,bedding,puzzles,seeds
+153,garden,magazines,sheet music,baby,accessories,novels,utensils,recording,baby,gear
+154,movies,first aid,baby,instruments,accessories,baking,puzzles,fragrance,fertilizers,photography
+155,accessories,photography,supplements,parts,clothing,automotive,baby,lighting,movies,garden
+156,baby,hiking,accessories,accessories,tools,chairs,card games,memorabilia,bedding,parts
+157,batteries,grooming,equipment,cutlery,toys,accessories,posters,tools,tablets,comics
+158,movies,tools,haircare,toys,memorabilia,curtains,furniture,healthcare,beauty,gear
+159,strollers,streaming,bedding,music,magazines,fitness,equipment,apparel,comics,laptops
+160,supplies,equipment,makeup,chairs,tablets,haircare,appliances,hiking,curtains,accessories
+161,literature,parts,appliances,gear,cookware,audio,phones,audio,bags,health
+162,travel,gear,utensils,first aid,camping,tires,photography,card games,board games,furniture
+163,gear,nails,accessories,equipment,toys,gear,tires,movies,comics,bedding
+164,electronics,medications,garden,accessories,medications,cameras,first aid,equipment,supplements,beauty
+165,baby,travel,phones,tires,camping,lighting,music,vitamins,nutrition,accessories
+166,healthcare,furniture,Blu-ray,fishing,audio,appliances,accessories,accessories,sports,medications
+167,fitness,backpacks,accessories,tools,makeup,streaming,accessories,seeds,accessories,parts
+168,cameras,home,kitchen,tools,cameras,novels,parts,streaming,shoes,appliances
+169,board games,guides,novels,batteries,food,magazines,Blu-ray,hiking,tools,electronics
+170,books,cookware,tires,fragrance,electronics,stands,electronics,kitchen,furniture,accessories
+171,puzzles,furniture,cleaning,pets,baking,gear,electronics,medications,guides,streaming
+172,gear,fitness,lenses,accessories,movies,adventure,supplies,furniture,decor,curtains
+173,toys,haircare,haircare,music,DVDs,games,baby,supplements,puzzles,parts
+174,supplements,sheet music,gear,maintenance,fertilizers,accessories,appliances,music,makeup,car seats
+175,memorabilia,supplements,beauty,shoes,card games,curtains,phones,sheet music,sheet music,accessories
+176,lenses,planters,fashion,supplements,music,streaming,phones,puzzles,furniture,skincare
+177,Blu-ray,magazines,guides,nails,dice,clothing,dice,equipment,lighting,clothing
+178,electronics,equipment,laptops,lighting,first aid,camping,non-fiction,decor,planters,board games
+179,maintenance,movies,clothing,tools,skincare,cameras,medications,magazines,camping,accessories
+180,baby,accessories,tablets,gadgets,kitchen,kitchen,fiction,camping,accessories,clothing
+181,comics,accessories,first aid,books,furniture,photography,textbooks,Blu-ray,curtains,beauty
+182,hiking,equipment,tools,tools,shoes,appliances,posters,chairs,DVDs,gear
+183,medications,furniture,sheet music,Blu-ray,stationery,tripods,makeup,textbooks,toys,tripods
+184,laptops,photography,supplies,adventure,plants,board games,shoes,outdoor,dice,fitness
+185,chairs,gear,beauty,toys,vitamins,outdoor,toys,toys,puzzles,tools
+186,accessories,sports,tools,clothing,bedding,beauty,accessories,puzzles,equipment,video games
+187,accessories,decor,accessories,bags,fashion,supplies,equipment,lighting,supplements,equipment
+188,DVDs,lighting,accessories,photography,electronics,gear,comics,pets,automotive,games
+189,toys,streaming,Blu-ray,streaming,automotive,makeup,comics,books,adventure,fragrance
+190,parts,clothing,laptops,fishing,lenses,shoes,electronics,phones,baby,first aid
+191,streaming,outdoor,music,gadgets,electronics,equipment,shoes,gear,parts,bedding
+192,clothing,gear,equipment,plants,jewelry,office,tools,accessories,first aid,tires
+193,cameras,accessories,instruments,luggage,clothing,backpacks,sports,curtains,accessories,fashion
+194,clothing,non-fiction,gear,fashion,lighting,plants,furniture,lenses,toys,puzzles
+195,games,toys,haircare,food,textbooks,movies,stationery,kitchen,first aid,shoes
+196,travel,first aid,haircare,camping,accessories,furniture,gear,makeup,first aid,gear
+197,lenses,grooming,outdoor,music,Blu-ray,novels,literature,cameras,pets,toys
+198,guides,electronics,gear,accessories,furniture,posters,diapers,books,DVDs,literature
+199,accessories,tripods,video games,stationery,vitamins,lighting,accessories,tires,novels,accessories
+200,sports,haircare,maintenance,furniture,posters,card games,gadgets,memorabilia,parts,diapers
+201,sports,dice,puzzles,DVDs,laptops,fragrance,chairs,instruments,memorabilia,automotive
+202,bags,magazines,tripods,toys,toys,health,dice,board games,photography,tools
+203,accessories,apparel,medications,baking,hiking,apparel,home,bedding,beauty,movies
+204,textbooks,fiction,fashion,cleaning,kitchen,posters,accessories,audio,memorabilia,magazines
+205,medications,audio,equipment,photography,health,guides,camping,tools,fashion,outdoor
+206,Blu-ray,magazines,lenses,lighting,clothing,apparel,hiking,fragrance,tools,garden
+207,home,fiction,automotive,magazines,haircare,maps,tools,Blu-ray,textbooks,food
+208,gear,vitamins,accessories,cooking,equipment,camping,accessories,electronics,sheet music,healthcare
+209,laptops,memorabilia,sports,hiking,fitness,maps,office,board games,car seats,maps
+210,skincare,health,stands,lenses,cookware,healthcare,games,board games,accessories,shoes
+211,fashion,fitness,memorabilia,furniture,kitchen,puzzles,furniture,adventure,furniture,curtains
+212,fragrance,home,cookware,makeup,bedding,audio,baby,lenses,hiking,diapers
+213,curtains,clothing,sheet music,electronics,luggage,bags,fertilizers,laptops,recording,chairs
+214,health,games,puzzles,beauty,novels,clothing,equipment,games,tools,instruments
+215,furniture,utensils,bakeware,boating,sheet music,accessories,posters,furniture,memorabilia,furniture
+216,kitchen,lighting,tools,DVDs,grooming,cooking,curtains,nails,instruments,clothing
+217,bags,accessories,tools,tools,grooming,luggage,guides,seeds,home,clothing
+218,hiking,phones,beauty,DVDs,photography,instruments,automotive,DVDs,diapers,accessories
+219,puzzles,utensils,car seats,boating,tools,kitchen,fragrance,posters,appliances,strollers
+220,gear,shoes,lenses,pets,rugs,home,tripods,automotive,accessories,gear
+221,cooking,accessories,board games,games,electronics,board games,automotive,instruments,furniture,toys
+222,magazines,electronics,gear,rugs,skincare,parts,boating,beauty,diapers,nails
+223,vitamins,first aid,medications,camping,hiking,lighting,books,gear,adventure,hiking
+224,vitamins,shoes,clothing,board games,furniture,music,card games,garden,boating,garden
+225,accessories,novels,haircare,accessories,toys,nails,baby,magazines,tools,cookware
+226,puzzles,diapers,sports,accessories,streaming,lighting,board games,pets,plants,maintenance
+227,accessories,accessories,decor,baby,fitness,nails,makeup,sheet music,equipment,bakeware
+228,accessories,tools,lighting,beauty,toys,pets,curtains,planters,instruments,instruments
+229,toys,books,dice,equipment,decor,travel,supplies,movies,Blu-ray,tools
+230,electronics,utensils,bakeware,fashion,comics,gadgets,fiction,games,lighting,grooming
+231,health,fiction,guides,equipment,vitamins,phones,puzzles,travel,baby,luggage
+232,recording,audio,equipment,shoes,DVDs,clothing,clothing,medications,first aid,cooking
+233,guides,comics,tires,home,clothing,garden,batteries,boating,decor,food
+234,decor,electronics,bedding,memorabilia,cameras,music,camping,music,toys,accessories
+235,batteries,nail care,maps,baby,recording,books,guides,appliances,hiking,haircare
+236,clothing,tires,maintenance,seeds,lighting,furniture,supplements,utensils,literature,electronics
+237,tools,tripods,food,outdoor,electronics,plants,parts,seeds,movies,maps
+238,bedding,nails,movies,strollers,garden,movies,furniture,shoes,supplements,dice
+239,decor,tablets,textbooks,accessories,streaming,boating,vitamins,instruments,apparel,shoes
+240,fragrance,clothing,shoes,decor,diapers,electronics,accessories,audio,tools,cookware
+241,instruments,skincare,supplements,books,kitchen,tools,comics,maps,backpacks,adventure
+242,gear,bedding,clothing,gadgets,clothing,medications,nails,textbooks,card games,lighting
+243,nutrition,healthcare,toys,textbooks,garden,bags,seeds,tablets,recording,fitness
+244,phones,grooming,toys,office,photography,appliances,movies,cutlery,sports,audio
+245,lighting,accessories,boating,maps,music,toys,automotive,movies,diapers,cameras
+246,maps,utensils,sports,music,baby,jewelry,apparel,apparel,shoes,recording
+247,automotive,lighting,automotive,lighting,chairs,lighting,tools,strollers,clothing,Blu-ray
+248,fiction,streaming,board games,accessories,boating,gear,posters,garden,vitamins,accessories
+249,camping,gear,lenses,kitchen,decor,tools,backpacks,fishing,nutrition,music
+250,backpacks,vitamins,cutlery,nails,supplements,toys,hiking,supplies,sports,makeup
+251,board games,lighting,medications,fitness,jewelry,literature,travel,equipment,bedding,fragrance
+252,lenses,gear,supplies,car seats,car seats,lenses,fragrance,equipment,fashion,maps
+253,clothing,clothing,bakeware,sheet music,accessories,first aid,haircare,camping,dice,garden
+254,plants,sports,recording,non-fiction,music,first aid,puzzles,textbooks,audio,bakeware
+255,fashion,apparel,gear,DVDs,accessories,boating,outdoor,bakeware,clothing,supplies
+256,clothing,home,travel,lenses,hiking,home,puzzles,maps,gear,DVDs
+257,card games,movies,tires,cookware,textbooks,guides,furniture,first aid,fragrance,supplies
+258,recording,movies,instruments,jewelry,tools,accessories,card games,utensils,beauty,accessories
+259,laptops,boating,accessories,parts,furniture,sheet music,gear,streaming,nails,accessories
+260,toys,health,backpacks,appliances,Blu-ray,furniture,photography,luggage,planters,lighting
+261,healthcare,movies,card games,luggage,appliances,fragrance,cleaning,shoes,posters,utensils
+262,supplements,posters,tools,gear,supplements,puzzles,lighting,equipment,equipment,nail care
+263,gear,memorabilia,equipment,bakeware,toys,non-fiction,accessories,luggage,toys,first aid
+264,supplies,laptops,equipment,automotive,DVDs,furniture,accessories,tripods,dice,maps
+265,magazines,toys,shoes,apparel,gear,accessories,shoes,diapers,shoes,strollers
+266,first aid,tripods,cameras,accessories,dice,gear,luggage,boating,plants,cookware
+267,gadgets,strollers,gear,office,accessories,games,instruments,music,decor,equipment
+268,vitamins,appliances,comics,toys,guides,haircare,food,fragrance,garden,toys
+269,beauty,equipment,audio,tools,bedding,games,textbooks,hiking,luggage,card games
+270,toys,Blu-ray,utensils,healthcare,board games,tools,novels,gear,memorabilia,accessories
+271,batteries,fishing,novels,lenses,garden,equipment,tools,tripods,haircare,supplements
+272,lenses,comics,curtains,lenses,car seats,chairs,supplies,accessories,recording,decor
+273,streaming,boating,instruments,memorabilia,jewelry,fitness,dice,accessories,clothing,garden
+274,dice,parts,grooming,batteries,skincare,furniture,accessories,phones,travel,furniture
+275,games,makeup,toys,gadgets,video games,accessories,hunting,accessories,comics,furniture
+276,batteries,memorabilia,diapers,laptops,fragrance,curtains,garden,cameras,batteries,cameras
+277,apparel,magazines,gear,fitness,lighting,lenses,apparel,board games,haircare,fertilizers
+278,phones,kitchen,movies,posters,skincare,movies,lenses,makeup,first aid,tools
+279,DVDs,medications,phones,pets,furniture,beauty,phones,haircare,dice,seeds
+280,car seats,toys,baby,fashion,health,beauty,utensils,movies,sheet music,card games
+281,cameras,furniture,bags,video games,sheet music,planters,chairs,medications,skincare,makeup
+282,fitness,medications,seeds,clothing,plants,beauty,tools,bags,plants,apparel
+283,luggage,food,video games,nutrition,utensils,puzzles,sports,toys,shoes,kitchen
+284,sheet music,pets,grooming,gear,toys,equipment,fragrance,accessories,haircare,outdoor
+285,audio,phones,accessories,fishing,accessories,electronics,parts,decor,vitamins,tools
+286,healthcare,parts,board games,makeup,baking,equipment,medications,nails,equipment,memorabilia
+287,pets,video games,kitchen,decor,utensils,cookware,grooming,appliances,instruments,supplements
+288,DVDs,furniture,cookware,lighting,comics,camping,fishing,parts,luggage,accessories
+289,luggage,accessories,toys,jewelry,DVDs,cameras,movies,non-fiction,appliances,car seats
+290,haircare,batteries,tools,textbooks,maps,parts,batteries,nutrition,accessories,guides
+291,Blu-ray,games,fishing,clothing,medications,bakeware,vitamins,equipment,travel,magazines
+292,maps,supplements,DVDs,phones,gear,plants,fashion,cooking,cutlery,haircare
+293,sheet music,utensils,textbooks,makeup,first aid,textbooks,furniture,garden,maps,accessories
+294,magazines,shoes,maps,audio,apparel,lighting,equipment,cutlery,dice,sports
+295,pets,cameras,accessories,accessories,comics,bedding,lighting,cutlery,accessories,sheet music
+296,guides,cameras,automotive,healthcare,outdoor,diapers,comics,camping,shoes,hunting
+297,bags,curtains,gear,posters,supplements,card games,equipment,jewelry,video games,kitchen
+298,clothing,fashion,tools,supplies,garden,tools,food,laptops,vitamins,photography
+299,cooking,shoes,board games,instruments,games,music,seeds,plants,books,food
+300,accessories,utensils,apparel,games,toys,vitamins,Blu-ray,chairs,skincare,DVDs

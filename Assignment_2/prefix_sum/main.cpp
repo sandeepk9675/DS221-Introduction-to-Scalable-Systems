@@ -3,6 +3,7 @@
 #include <omp.h>
 #include <numeric>  // For std::iota
 #include <ctime>    // For timing
+#include "vector_io.h"
 
 // Function to compute the sequential prefix sum
 void sequential_prefix_sum(const std::vector<int>& A, std::vector<int>& B) {
@@ -31,10 +32,8 @@ void parallel_prefix_sum(const std::vector<int>& A, std::vector<int>& B, int num
             for (size_t i = start + 1; i < end; ++i) {
                 B[i] = B[i - 1] + A[i];
             }
-            // Store the last element as offset for each chunk (only if not the first thread)
-            if (tid > 0) {
-                offset[tid] = B[end - 1];
-            }
+            // Store the sum of the current thread's chunk in offset
+            offset[tid] = B[end - 1];
         }
     }
 
@@ -53,29 +52,46 @@ void parallel_prefix_sum(const std::vector<int>& A, std::vector<int>& B, int num
 
         // Add the offset to each element of the current chunk, if not the first thread
         if (tid > 0 && start < n) {
+            int thread_offset = offset[tid - 1];
             for (size_t i = start; i < end; ++i) {
-                B[i] += offset[tid - 1];
+                B[i] += thread_offset;
             }
         }
     }
 }
 
+// Function to compare two vectors
+bool compare_vectors(const std::vector<int>& vec1, const std::vector<int>& vec2) {
+    if (vec1.size() != vec2.size()) {
+        return false; // Sizes don't match
+    }
+
+    for (size_t i = 0; i < vec1.size(); ++i) {
+        if (vec1[i] != vec2[i]) {
+            return false; // Found a mismatch
+        }
+    }
+
+    return true; // All elements match
+}
+
 int main() {
     // Experiment parameters
-    std::vector<int> array_sizes = {1000000, 2000000, 3000000, 4000000, 5000000, 6000000, 7000000, 8000000, 9000000, 10000000 };
-    std::vector<int> thread_counts = {2, 4, 8, 16, 32, 64};
+    std::vector<int> array_sizes = {10000};
+    std::vector<int> thread_counts = {32};
 
     // Loop over each array size
     for (int size : array_sizes) {
-        std::vector<int> A(size);
-        std::iota(A.begin(), A.end(), 1);  // Fill A with 1, 2, ..., size
         std::vector<int> B(size);
+        std::vector<int> B_1(size);
+        std::vector<int> A(size);
+        A = read_from_file("../test file from KM/openmp/input_10k.bin");
 
         // Sequential execution time (baseline)
         double seq_time = 0.0;
         for (int i = 0; i < 5; ++i) {
             double start_time = omp_get_wtime();
-            sequential_prefix_sum(A, B);
+            sequential_prefix_sum(A, B_1);
             seq_time += (omp_get_wtime() - start_time);
         }
         seq_time /= 5;
@@ -84,7 +100,7 @@ int main() {
         // Loop over each thread count
         for (int threads : thread_counts) {
             double parallel_time = 0.0;
-            
+
             // Run the parallel prefix sum 5 times and average the times
             for (int i = 0; i < 5; ++i) {
                 double start_time = omp_get_wtime();
@@ -97,6 +113,15 @@ int main() {
             double speedup = seq_time / parallel_time;
             std::cout << "Threads: " << threads << " | Parallel Time: " << parallel_time 
                       << "s | Speedup: " << speedup << "\n";
+
+            // Compare results
+            if (compare_vectors(B, B_1)) {
+                std::cout << "Threads: " << threads << " | Results match.\n";
+            } else {
+                std::cout << "Threads: " << threads << " | Results do not match.\n";
+            }
+
+            write_to_file("output1.txt", B);
         }
         std::cout << "---------------------------------------------\n";
     }
